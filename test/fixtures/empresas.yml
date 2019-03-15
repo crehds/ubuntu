@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_empresa: 1
+  identificador_empresa: 
+  nombre: MyText
+  contacto: MyText
+  direcci¢n: MyText
+  R.U.T: MyText
+  email_empresa: MyText
+  emacuenta_bancaria: MyText
+
+two:
+  id_empresa: 1
+  identificador_empresa: 
+  nombre: MyText
+  contacto: MyText
+  direcci¢n: MyText
+  R.U.T: MyText
+  email_empresa: MyText
+  emacuenta_bancaria: MyText

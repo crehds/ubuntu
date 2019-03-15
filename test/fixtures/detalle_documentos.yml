@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  documento: one
+  tipo_documento: one
+  producto: MyText
+  cantidad: 1
+  precio_unitario: 1.5
+
+two:
+  documento: two
+  tipo_documento: two
+  producto: MyText
+  cantidad: 1
+  precio_unitario: 1.5

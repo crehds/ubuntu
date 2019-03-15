@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_tipo_destinatario: MyString
+  tipo_destinatario: MyString
+
+two:
+  id_tipo_destinatario: MyString
+  tipo_destinatario: MyString

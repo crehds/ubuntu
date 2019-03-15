@@ -1,0 +1,67 @@
+.Detalle {
+  grid-row: 2 / -1;
+}
+
+.detalle-details {
+  display: grid;
+  grid-template-rows: 55px 25px;
+  justify-items: center;
+  padding-bottom: 2px;
+  font-size: 12px;
+}
+
+.detalle-details-inputs {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.detalle-details .detalle-details-inputs span {
+  padding-top: 5px;
+  padding-right: 10px;
+}
+
+.detalle-details .detalle-details-inputs span p {
+  margin: 1px;
+}
+
+.detalle-button {
+  display: block;
+  outline: 0;
+}
+
+.detalle-vist {
+  display:grid;
+  margin-top: 8px;
+  padding-top: 3px;
+  grid-template-columns: repeat(3, 1fr);
+  box-sizing: border-box;
+  box-shadow: 0 0 1px 3px rgba(220,220,220,.9);
+  align-content: center;
+  max-height: 205px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.detalle-vist-title {
+  display: flex;
+  justify-content: space-around;
+  grid-column: 1 / 4;
+  max-width: 95%;
+}
+.detalle-vist h1 {
+  margin: 1px;
+}
+.detalle-vist-detail {
+  max-width: 100%;
+  box-shadow: 1px 1px 1px 1px #200f08;
+  height: 20px;
+}
+
+.detalle-vist-button {
+  margin-top:4px;
+  height:25px;
+}
+
+body > div:nth-child(1) > section > section > section.Emitir > div.Detalle > button:nth-child(4) {
+  margin-left: 15px;
+}

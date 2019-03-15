@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_documento: 1
+  tipo_documento: one
+  usuario: one
+  destinatario: one
+  estado_documento: one
+  fecha_envio: 2019-03-02 02:53:43
+  observaciones: MyText
+
+two:
+  id_documento: 1
+  tipo_documento: two
+  usuario: two
+  destinatario: two
+  estado_documento: two
+  fecha_envio: 2019-03-02 02:53:43
+  observaciones: MyText

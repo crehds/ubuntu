@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  background: #CFCFCF;
+}
+
+.HomeLayout {
+  display: flex;
+  margin: 0 auto;
+  min-height: 100vh;
+}

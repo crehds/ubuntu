@@ -1,0 +1,13 @@
+.option-containers {
+  display:grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(2, 25px);
+  grid-row-gap: 10px;
+  font-size: 12px;
+}
+
+.option-button {
+  grid-column: 1 / -1;
+  margin-left: 35%;
+  margin-right: 35%;
+}

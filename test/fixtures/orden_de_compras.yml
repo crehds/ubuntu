@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_orden_de_compra: MyString
+  documento: one
+  fecha_pedido: 2019-03-02 03:13:10
+  fecha_pago: 2019-03-02 03:13:10
+  terminos_de_entrega: MyText
+
+two:
+  id_orden_de_compra: MyString
+  documento: two
+  fecha_pedido: 2019-03-02 03:13:10
+  fecha_pago: 2019-03-02 03:13:10
+  terminos_de_entrega: MyText

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_destinatario: 1
+  nombre_destinatario: MyText
+  contacto_destinatario: MyText
+  email: MyText
+  R_U_T: MyString
+  tipo_destinatario: one
+
+two:
+  id_destinatario: 1
+  nombre_destinatario: MyText
+  contacto_destinatario: MyText
+  email: MyText
+  R_U_T: MyString
+  tipo_destinatario: two

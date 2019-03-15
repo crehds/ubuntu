@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_cotizacion: MyString
+  documento: one
+  condicion_pago: MyText
+  validez_oferta: MyText
+  tiempo_entrega: MyText
+  lugar_entrega: MyText
+
+two:
+  id_cotizacion: MyString
+  documento: two
+  condicion_pago: MyText
+  validez_oferta: MyText
+  tiempo_entrega: MyText
+  lugar_entrega: MyText

@@ -1,0 +1,16 @@
+.LastOrders {
+  padding-top: 30px;
+  padding-left: 8px;
+  padding-right: 8px;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-auto-rows: 20px 180px;
+  grid-column-gap: 10px;
+  grid-row-gap: 8px;
+  text-align: center;
+}
+
+.title {
+  grid-column: 1 /  4;
+  grid-row: 1 / 2;
+}
